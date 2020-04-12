@@ -1,2 +1,2 @@
 # img-hosting
-hosting for image blog
+Hosting for image blog
